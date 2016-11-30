@@ -1,4 +1,4 @@
-## R-Type
+# R-Type
 Multiplayer Arcade game (Shoot'em up) based on R-Type famous game.
 
 ## Installation
@@ -12,16 +12,22 @@ Run the CMake command to generate all the Makefiles to compile the project or op
 Cooperate with up to 3 other pilots to fight against the Aliens and try to get the best score.
 
 ## Controls
-- [ARROW]   -     Move
-- [SPACE]   -     Shoot
-- [TAB]     -     Show Info
+[ARROW]   -     Move
+
+[SPACE]   -     Shoot
+
+[TAB]     -     Show Info
 
 ## Bonus
-- Temporary increase the Fire rate.
-- Temporary increase damage.
-- Permanently restore life.
+Temporary increase the Fire rate.
+
+Temporary increase damage.
+
+Permanently restore life.
 
 ## Using
-- C++
-- UDP
-- SFML
+_C++_
+
+_UDP_
+
+_SFML_

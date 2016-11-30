@@ -1,5 +1,5 @@
 # R-Type
-Multiplayer Arcade game (Shoot'em up) based on R-Type famous game.
+Multiplayer Arcade game (Shoot'em up) based on the famous R-Type
 
 ## Installation
 You will need SFML to run the client.
